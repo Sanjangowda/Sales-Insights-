@@ -23,7 +23,7 @@ Try this with following steps:
 - Model the data
 > STEP 4:
 - Use right visualize charts and graphs that suits the data
-- Design the dashboard/report in appealing way and can be understood by others
+- Design the actionable dashboard/report in appealing way and can be understood by others
 --- 
 ## Pictures
 <img width="1376" height="870" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/18a2e8a0-b52d-4dc0-942f-4167460373de" />
